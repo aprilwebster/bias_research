@@ -18,7 +18,7 @@
 - This lack of "self-retrospection" and honesty is a huge blindspot in the data science field
 
 
-### How other fields communicate
+### How other fields communicate the "artistic" side of their field
 #### Statistics
 - "the art of lying with statistics" - this is a good reference
 
