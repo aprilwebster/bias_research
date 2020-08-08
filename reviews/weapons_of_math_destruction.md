@@ -1,5 +1,5 @@
 # Weapons of Math Destruction (Cathy O'Neil)
-- math + technology magnifies the reach of ML/AI systems
+- technology magnifies the reach of ML/AI systems
    - computers add efficiency and scale, making it possible churn "24/7 through petabytes of information"
 - models are increasingly directly impacting humans
    - "increasingly they focused [...] on human beings [...] predicting our trustworthiness and calculating our potential as students, workers, lovers, criminals."
