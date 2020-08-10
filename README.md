@@ -1,4 +1,4 @@
-# Model Fairness Research
+# Model Explainability Research
 
 ## References
 - Light reading: https://www.theatlantic.com/technology/archive/2018/01/equivant-compas-algorithm/550646/
